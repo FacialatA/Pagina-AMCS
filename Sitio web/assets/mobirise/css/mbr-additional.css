@@ -1108,7 +1108,7 @@ a {
 }
 .cid-tNwDsVgJTt .mbr-text,
 .cid-tNwDsVgJTt .mbr-section-btn {
-  text-align: center;
+  text-align: left;
 }
 .cid-tNwDsVgJTt .item-title {
   text-align: center;
@@ -1549,76 +1549,8 @@ a {
     left: -1rem;
   }
 }
-.cid-tNBJjrCNv9 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #232323;
-}
-.cid-tNBJjrCNv9 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tNBJjrCNv9 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tNBJjrCNv9 .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-tNBJjrCNv9 .card-wrapper {
-  background-color: #2299aa;
-  border-radius: 4px;
-}
-.cid-tNBJjrCNv9 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-tNBJjrCNv9 .social-row .soc-item {
-  display: inline-block;
-  text-align: center;
-  border-radius: 50%;
-  margin-right: 0.6rem;
-  margin-bottom: 1rem;
-  padding: 0.5rem;
-  border: 2px solid #6592e6;
-  transition: all 0.3s;
-}
-.cid-tNBJjrCNv9 .social-row .soc-item .mbr-iconfont {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  color: #6592e6;
-  font-size: 1.5rem;
-  transition: all 0.3s;
-}
-.cid-tNBJjrCNv9 .social-row .soc-item:hover {
-  background-color: #6592e6;
-}
-.cid-tNBJjrCNv9 .social-row .soc-item:hover .mbr-iconfont {
-  color: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-tNBJjrCNv9 .card-box {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-tNBJjrCNv9 .card-box {
-    padding-right: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tNBJjrCNv9 .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
-}
 .cid-tNBJLNtHST {
-  padding-top: 0rem;
+  padding-top: 3rem;
   padding-bottom: 0rem;
   background-color: #232323;
 }
@@ -2146,7 +2078,7 @@ a {
 }
 .cid-tNwO9Fz1QR {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 0rem;
   background-color: #232323;
 }
 .cid-tNwO9Fz1QR .mbr-fallback-image.disabled {
@@ -2201,7 +2133,7 @@ a {
   margin: 0 auto;
 }
 .cid-tNwPgBPNQA .mbr-text {
-  color: #2299aa;
+  color: #ffffff;
 }
 .cid-tNAr1t9GWl {
   padding-top: 5rem;
