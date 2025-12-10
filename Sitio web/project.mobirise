@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMCS",
-    "currentPage": "index.html",
+    "currentPage": "amcs-nosotros.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -44,7 +44,11 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "imageResize": true,
     "usedWebp": true,
+<<<<<<< HEAD
     "mbrsiteDomain": "3aeypmz1kh",
+=======
+    "mbrsiteDomain": "37ichw6i6j",
+>>>>>>> origin/main
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
